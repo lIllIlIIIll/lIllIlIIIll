@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lee JeongMin</h1>
 <h3 align="center">Preparing AI developer from Korea</h3>
 
+# Intro
+
 - 🌱 I’m currently learning **Machine Learning / Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://lilliliiill.github.io/Leeinformation.github.io/](https://lilliliiill.github.io/Leeinformation.github.io/)
